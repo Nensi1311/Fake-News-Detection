@@ -6,6 +6,7 @@ This project aims to classify news articles as True or Fake using machine learni
 Dataset Source: The dataset consists of two files: <br>
 - Fake.csv (contains fake news articles)
 - True.csv (contains real news articles) <br>
+
 Merged Dataset: Both datasets were combined, and a new column, class, was added: <br>
 - 1 for True articles (from True.csv)
 - 0 for Fake articles (from Fake.csv)
